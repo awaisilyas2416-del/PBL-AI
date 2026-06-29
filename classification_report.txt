@@ -1,0 +1,12 @@
+=== EfficientNet-B0 Kidney Tumor Classification Report ===
+
+              precision    recall  f1-score   support
+
+        Cyst       0.95      0.96      0.95       139
+      Normal       0.97      0.99      0.98       139
+       Stone       0.96      0.97      0.96       139
+       Tumor       0.99      0.96      0.97       139
+
+    accuracy                           0.97       556
+   macro avg       0.97      0.97      0.97       556
+weighted avg       0.97      0.97      0.97       556
